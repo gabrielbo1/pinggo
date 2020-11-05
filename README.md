@@ -1,3 +1,3 @@
 # pinggo
-#### Application monitoring with alerts. HTTP, ICMP ping and SQL like conections.
+#### Test connection HTTP, ICMP ping and SQL like conections.
 ![pinggo](gopher.png)
